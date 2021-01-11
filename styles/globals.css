@@ -25,3 +25,9 @@ img {
   max-width: 100%;
   display: block;
 }
+
+.socialMedia {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
