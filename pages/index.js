@@ -15,7 +15,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p> Hello World!
           <br></br>
-        I’m Leanne. I’m a software engineer, ceramic artist, printmaker, jewlery maker, designer and hardest job of all, a mom! I love writing clean code, making things, interacting with quirky people and drinking tea.
+        I’m Leanne. I’m a software engineer, ceramic artist, printmaker, jewlery maker and designer! I love writing clean code, making things, interacting with quirky people and drinking tea.
         </p>
         <p>
           Feel free to view my online portfolio <a herf="https://leafrisinger.com/">leafrisinger.com </a> 
