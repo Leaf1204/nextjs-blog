@@ -15,11 +15,11 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p> Hello World!
           <br></br>
-        I’m Leanne. I’m a software engineer, ceramic artist, printmaker, jewlery maker, designer and hardest job of all, a mom. I love clean code, quirky things and drinking tea.
+        I’m Leanne. I’m a software engineer, ceramic artist, printmaker, jewlery maker, designer and hardest job of all, a mom! I love writing clean code, making things, interacting with quirky people and drinking tea.
         </p>
         <p>
           Feel free to view my online portfolio <a herf="https://leafrisinger.com/">leafrisinger.com </a> 
-         or connect with my on professional social networks</p>
+         or connect with my on professional social networks.</p>
         <div className="socialMedia">
           <a href="https://github.com/Leaf1204"><img src="./images/github-big-logo.png"></img></a>
           <a href="https://www.linkedin.com/in/leannefrisinger/"><img src="./images/linkedin.png"></img></a>
